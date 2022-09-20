@@ -1,0 +1,8 @@
+HOTEL RESERVATION SYSTEM PROJECT BY GROUP 8 [406-A]
+
+Database Name : Chandigarh Hotel
+
+Admin Login :
+1. sanjay (10628)
+2. shubhankar (10627)
+3. himanshu (10379)
